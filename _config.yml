@@ -3,8 +3,8 @@ name: 'Horace'
 description: 'Horace is a simple Jekyll theme for writers and bloggers. Explore it yourself.'
 meta_description: 'Jekyll template, minimal style, perfect for bloggers.'
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
-baseurl: https://ssagynbayeva.github.io 
+favicon: 'assets/images/planet.png'
+baseurl: # https://ssagynbayeva.github.io 
 production_url: https://ssagynbayeva.github.io
 # disqus: 'justgoodthemes'
 # mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
