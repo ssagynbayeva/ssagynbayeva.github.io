@@ -5,7 +5,7 @@ title: Research
 ---
 ## Current Projects
 
-### Binary black hole merger in AGN disks
+### <span style="font-family:Verdana;">Binary black hole merger in AGN disks</span>
 {% include image-caption.html imageurl="/assets/images/posts/research/ecc005.gif#right" caption="" width="400" %}
 
 It is widely accepted that active galactic nuclei (AGN) are powered by the release of gravitational energy as mass falls onto a supermassive black hole (SMBH) in the center of AGN via accretion. There are also other, not so massive, black holes (BHs) dynamically moving inside the AGN disks. These dynamical interactions between black holes and the disks they are embedded into might lead some of the black holes to form binaries and merge. I am working on analyzing the evolution of orbital parameters of black hole binaries in AGN disks using 3D hydrodynamical simulations. I am working on this project with Professor Saavik Ford, Professor Barry McKernan, and Professor Phil Armitage.
