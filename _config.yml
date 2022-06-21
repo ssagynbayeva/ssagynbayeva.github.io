@@ -43,11 +43,11 @@ navigation:
   - text: About
     url: /about
   - text: Research
-    url: /research/
+    url: /research
   - text: Outreach
-    url: /outreach/
+    url: /outreach
   - text: Music
-    url: /music/
+    url: /music
   # - text: Contact Me
   #   url: /contact/
   
