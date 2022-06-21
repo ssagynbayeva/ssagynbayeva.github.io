@@ -6,7 +6,7 @@ title: Research
 ## Current Projects
 
 ### Binary black hole merger in AGN disks
-{% include image-caption.html imageurl="/assets/images/posts/research/ecc005.gif#left" caption="" width="400" %}
+{% include image-caption.html imageurl="/assets/images/posts/research/ecc005.gif#right" caption="" width="400" %}
 
 It is widely accepted that active galactic nuclei (AGN) are powered by the release of gravitational energy as mass falls onto a supermassive black hole (SMBH) in the center of AGN via accretion. There are also other, not so massive, black holes (BHs) dynamically moving inside the AGN disks. These dynamical interactions between black holes and the disks they are embedded into might lead some of the black holes to form binaries and merge. I am working on analyzing the evolution of orbital parameters of black hole binaries in AGN disks using 3D hydrodynamical simulations. I am working on this project with Professor Saavik Ford, Professor Barry McKernan, and Professor Phil Armitage.
 
@@ -19,7 +19,7 @@ This work is conducted under the supervision of Professor Phil Armitage (Stony B
 ## Past Projects
 
 ### Black Hole Mimickers
-{% include image-caption.html imageurl="/assets/images/posts/research/bhmims.jpg#left" caption="" width="100" %}
+{% include image-caption.html imageurl="/assets/images/posts/research/bhmims.jpg#right" caption="" width="100" %}
 
 We investigated the properties of particle collisions in the vicinity of compact objects that deviate from the usual black hole solutions of general relativity. We assumed static axisymmetric spacetimes where the spherical symmetry is broken by the presence of some quadrupole. As test metrics, we used two well-known Weyl solutions, the Erez-Rosen and the Zipoy-Voorhees solution. We calculated the center of mass energy for particle collisions that take place at the ISCO and find it to depend on the deformation parameters. We also investigated the "near-horizon" collisions and find that the behavior deviates from that of Schwarzschild, particularly in the case of prolate deformations. This work was done under the supervision of Professor Daniele Malafarina at Nazarbayev University.
 
