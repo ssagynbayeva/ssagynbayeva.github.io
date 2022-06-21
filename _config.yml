@@ -41,7 +41,7 @@ instagram: 'sabinka.s.a'
 # Navigation
 navigation:
   - text: About
-    url: /about/
+    url: /about
   - text: Research
     url: /research/
   - text: Outreach
