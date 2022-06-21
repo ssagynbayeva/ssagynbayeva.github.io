@@ -1,19 +1,19 @@
 ---
 layout: post
-title: 'Choosing the Best Front-end Framework'
-tags: [JavaScript, Tips]
-featured_image_thumbnail: assets/images/posts/2018/1_thumbnail.jpg
-featured_image: assets/images/posts/2018/1.jpg
+# title: 'Choosing the Best Front-end Framework'
+# tags: [JavaScript, Tips]
+# featured_image_thumbnail: assets/images/posts/2018/1_thumbnail.jpg
+# featured_image: assets/images/posts/2018/1.jpg
 featured: true
 hidden: true
 ---
-SABINA TESTS!!!!!!!!!!!!!!!!!!!!!!!!
+<!-- SABINA TESTS!!!!!!!!!!!!!!!!!!!!!!!!
 
-In computer science, a **software framework** is an abstraction in which software providing generic functionality can be selectively changed by additional user-written code, thus providing application-specific software. A software framework provides a standard way to build and deploy applications.
+In computer science, a **software framework** is an abstraction in which software providing generic functionality can be selectively changed by additional user-written code, thus providing application-specific software. A software framework provides a standard way to build and deploy applications. -->
 
 <!--more-->
 
-> "Walking on water and developing software from a specification are easy if both are frozen." <cite>- Edward V Berard -</cite>
+<!-- > "Walking on water and developing software from a specification are easy if both are frozen." <cite>- Edward V Berard -</cite>
 
 A software framework is a universal, reusable software environment that provides particular functionality as part of a larger software platform to facilitate development of software applications, products and solutions. Software frameworks may include support programs, compilers, code libraries, tool sets, and application programming interfaces (APIs) that bring together all the different components to enable development of a project or system. [(Source)](https://en.wikipedia.org/wiki/Software_framework)
 
@@ -43,4 +43,4 @@ The AngularJS framework works by first reading the HTML page, which has addition
 
 According to JavaScript analytics service Libscore, AngularJS is used on the websites of Wolfram Alpha, NBC, Walgreens, Intel, Sprint, ABC News, and about 12,000 other sites out of 1 million tested in October 2016. AngularJS is currently in the top 100 of the most starred projects on GitHub.
 
-AngularJS is the frontend part of the **MEAN stack**, consisting of MongoDB database, [Express.js](https://expressjs.com/) web application server framework, Angular.js itself, and Node.js server runtime environment.
+AngularJS is the frontend part of the **MEAN stack**, consisting of MongoDB database, [Express.js](https://expressjs.com/) web application server framework, Angular.js itself, and Node.js server runtime environment. -->
