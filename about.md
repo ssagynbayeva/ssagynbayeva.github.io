@@ -4,7 +4,7 @@ title: About
 # featured_image: /assets/images/pages/about.jpg
 ---
 
-{% include image-caption.html imageurl="/assets/images/posts/about/IMG_9403.JPG#left" caption="This is caption" %}
+{% include image-caption.html imageurl="/assets/images/posts/about/IMG_9403.JPG#left" caption="Alt text: Sabina is smiling. She wears a red shirt with stripes and round glasses." %}
 
 Hi! I am an Astrophysics graduate student at Stony Brook University, originally from Kazakhstan. I work with Phil Armitage, and my scientific interests span planet formation, accretion disks, and exoplanets.
 
