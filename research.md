@@ -6,9 +6,9 @@ title: Research
 ## Past Projects
 
 ### Black Hole Mimickers
-{% include image-caption.html imageurl="/assets/images/posts/research/bhmims.jpg#left" caption="" %}
+{% include image-caption.html imageurl="/assets/images/posts/research/bhmims.jpg#left" caption="" width="200" %}
 
-<div align="right">We investigated the properties of particle collisions in the vicinity of compact objects that deviate from the usual black hole solutions of general relativity. We assumed static axisymmetric spacetimes where the spherical symmetry is broken by the presence of some quadrupole. As test metrics, we used two well-known Weyl solutions, the Erez-Rosen and the Zipoy-Voorhees solution. We calculated the center of mass energy for particle collisions that take place at the ISCO and find it to depend on the deformation parameters. We also investigated the "near-horizon" collisions and find that the behavior deviates from that of Schwarzschild, particularly in the case of prolate deformations. This work was done under the supervision of Professor Daniele Malafarina at Nazarbayev University.
+We investigated the properties of particle collisions in the vicinity of compact objects that deviate from the usual black hole solutions of general relativity. We assumed static axisymmetric spacetimes where the spherical symmetry is broken by the presence of some quadrupole. As test metrics, we used two well-known Weyl solutions, the Erez-Rosen and the Zipoy-Voorhees solution. We calculated the center of mass energy for particle collisions that take place at the ISCO and find it to depend on the deformation parameters. We also investigated the "near-horizon" collisions and find that the behavior deviates from that of Schwarzschild, particularly in the case of prolate deformations. This work was done under the supervision of Professor Daniele Malafarina at Nazarbayev University.
 
 [`Read the paper`](https://arxiv.org/pdf/2009.12839.pdf)
 
