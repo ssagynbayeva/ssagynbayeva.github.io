@@ -4,6 +4,8 @@ title: About
 featured_image: /assets/images/pages/about.jpg
 ---
 
+{% include image-caption.html imageurl="/assets/images/posts/about/IMG_9403.JPG" caption="This is caption" %}
+
 Hi! I am an Astrophysics graduate student at Stony Brook University, originally from Kazakhstan. I work with Phil Armitage, and my scientific interests span planet formation, accretion disks, and exoplanets.
 
 I am passionate about supporting minorities in science and improving DEI. 
