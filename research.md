@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+# title: Research
 # featured_image: /assets/images/pages/about.jpg
 ---
 ## Past Projects
