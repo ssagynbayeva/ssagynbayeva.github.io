@@ -6,12 +6,12 @@ title: Research
 ## Current Projects
 
 ### Binary black hole merger in AGN disks
-{% include image-caption.html imageurl="/assets/images/posts/research/ecc005.gif#left" caption="" width="200" %}
+{% include image-caption.html imageurl="/assets/images/posts/research/ecc005.gif#left" caption="" width="400" %}
 
 It is widely accepted that active galactic nuclei (AGN) are powered by the release of gravitational energy as mass falls onto a supermassive black hole (SMBH) in the center of AGN via accretion. There are also other, not so massive, black holes (BHs) dynamically moving inside the AGN disks. These dynamical interactions between black holes and the disks they are embedded into might lead some of the black holes to form binaries and merge. I am working on analyzing the evolution of orbital parameters of black hole binaries in AGN disks using 3D hydrodynamical simulations. I am working on this project with Professor Saavik Ford, Professor Barry McKernan, and Professor Phil Armitage.
 
 ### Migration of planets in protoplanetary disks
-{% include image-caption.html imageurl="/assets/images/posts/research/den_smr3.png#right" caption="" width="100" %}
+{% include image-caption.html imageurl="/assets/images/posts/research/den_smr3.png#right" caption="" width="400" %}
 
 Planetary systems are dynamic places. As the planet's tidal force exerts a torque on the disk, the back-reaction from the disk also torques the planet, causing it to migrate. In this project, we are concerned about Type I migration - the migration of low-mass planets. Particularly, we aim to investigate the migration due to thermal torques, considering the planet as a luminous object extracting thermal energy on the disk.
 This work is conducted under the supervision of Professor Phil Armitage (Stony Brook/CCA) and Dr. Yan-Fei Jiang (CCA).
