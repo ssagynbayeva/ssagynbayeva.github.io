@@ -4,6 +4,7 @@ title: 'one thing to say.'
 tags: [writing, blog]
 featured_image_thumbnail: assets/images/posts/blog/20180803_092910.jpg
 featured_image: assets/images/posts/blog/20180803_092910.jpg
+featured: true
 ---
 *The image shows the so-called Letters to Juliet. I took this picture in Verona, Italy. Visitors stuff their letters into cracks in the walls and a special post box, asking Juliet (From Romeo & Juliet) for counsel on their love lives.*
 
