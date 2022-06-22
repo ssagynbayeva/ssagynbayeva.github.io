@@ -1,4 +1,10 @@
 <p class="social-links">
+    {% if site.email %}
+    <a href="mailto:sabina.sagynbayeva@gmail.com{{ site.twitter }}" class="btn btn-icon btn-secondary" target="_blank" rel="noopener">
+        {% include icons/envelope.svg %}
+        <span class="screen-reader-text">Email</span>
+    </a>
+    {% endif %}
     {% if site.twitter %}
     <a href="https://twitter.com/{{ site.twitter }}" class="btn btn-icon btn-secondary" target="_blank" rel="noopener">
         {% include icons/twitter.svg %}
