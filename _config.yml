@@ -19,7 +19,7 @@ author:
   image: 'authorimage.jpg'
   greetings: 'Hi there!'
   description: "My name is Sabina Sagynbayeva. I'm an Astrophysics graduate student at Stony Brook University. My prounouns are she/her/hers. It’s nice to meet you."
-  bio: 'I'm a graduate student at Stony Brook University and my main research area is planet formation. In addition to doing research, I'm also a singer-songwriter. I LOVE writing songs, and you can find them on any streaming platform.'
+  # bio: 'I'm a graduate student at Stony Brook University and my main research area is planet formation. In addition to doing research, I'm also a singer-songwriter. I LOVE writing songs, and you can find them on any streaming platform.'
 
 # Contact form setings
 email: sabina.sagynbayeva@gmail.com
