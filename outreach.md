@@ -12,7 +12,7 @@ I am a regular writer for Astrobites, a website where graduate students publish 
 [`Read my posts`](https://astrobites.org/author/ssagynbayeva/)
 
 ### <span style="font-family:Andale Mono;">KIT inclusion club</span>
-{% include image-caption.html imageurl="/assets/images/posts/outreach/kit.png#right" caption="" width="400" %}
+{% include image-caption.html imageurl="/assets/images/posts/outreach/kit.jpg#right" caption="" width="400" %}
 
 I was an active volunteer at the "Education for all" center and the KIT inclusion club in Astana, organizations that help teenagers with mental and physical disabilities. Those are teenagers with autism, down syndrome, cerebral palsy, deafness, etc. I took part and organized our first inclusive musical theatre performances in Kazakhstan: "The Jungle Book," "Beauty and the Beast," and "Dreamers," the original musical. These performances were hugely covered in Kazakhstani media, e.g. on radio and TV programs.
 
