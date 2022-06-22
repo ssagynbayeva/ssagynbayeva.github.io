@@ -3,7 +3,7 @@ layout: page
 title: Research
 # featured_image: /assets/images/pages/about.jpg
 ---
-## <span style="font-family:Andale Mono;">Current Projects</span>
+>## <span style="font-family:Andale Mono;">Current Projects</span>
 
 ### <span style="font-family:Andale Mono;">Binary black hole merger in AGN disks</span>
 {% include image-caption.html imageurl="/assets/images/posts/research/ecc005.gif#right" caption="" width="400" %}
@@ -16,7 +16,7 @@ It is widely accepted that active galactic nuclei (AGN) are powered by the relea
 Planetary systems are dynamic places. As the planet's tidal force exerts a torque on the disk, the back-reaction from the disk also torques the planet, causing it to migrate. In this project, we are concerned about Type I migration - the migration of low-mass planets. Particularly, we aim to investigate the migration due to thermal torques, considering the planet as a luminous object extracting thermal energy on the disk.
 This work is conducted under the supervision of Professor Phil Armitage (Stony Brook/CCA) and Dr. Yan-Fei Jiang (CCA).
 
-## <span style="font-family:Andale Mono;">Past Projects</span>
+>## <span style="font-family:Andale Mono;">Past Projects</span>
 
 ### <span style="font-family:Andale Mono;">Black Hole Mimickers</span>
 {% include image-caption.html imageurl="/assets/images/posts/research/bhmims.jpg#right" caption="" width="100" %}
