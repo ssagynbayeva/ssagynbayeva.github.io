@@ -23,8 +23,8 @@ Together with Professor Aikaterini Mandilara at Nazarbayev University, I ran the
 
 >## <span style="font-family:Andale Mono;">Invited Public Talks</span>
 
-<iframe width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://www.youtube.com/watch?v=E-OefNM564E&t=2419s">
-*How Do Planets Form?* A public talk on planet formation for Astronomy on Tap, Baton Rouge. April, 2021.</a>.</p>
+<iframe src="https://www.youtube.com/watch?v=E-OefNM564E&t=2419s"width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a>
+*How Do Planets Form?* A public talk on planet formation for Astronomy on Tap, Baton Rouge. April, 2021</a>.</p>
 
 
 
