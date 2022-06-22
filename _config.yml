@@ -23,7 +23,7 @@ author:
   
 # Contact form setings
 email: sabina.sagynbayeva@gmail.com
-contact_page_description: "Horace theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want."
+contact_page_description: "If you have questions about my research or my music, want to invite me as a speaker to your event, have questions about graduate Physics and Astronomy programs, feel free to contact me!"
 thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
 
 # Social links
@@ -48,8 +48,8 @@ navigation:
     url: /outreach
   - text: Music
     url: /music
-  # - text: Contact Me
-  #   url: /contact/
+  - text: Contact Me
+    url: /contact
   
 
 # Required Plugins
