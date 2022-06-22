@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Outreach
 # featured_image: /assets/images/pages/about.jpg
 ---
 
