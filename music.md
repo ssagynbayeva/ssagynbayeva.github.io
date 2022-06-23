@@ -17,8 +17,6 @@ Recording studio: Shaman Recording Studio (Astana, Kazakhstan)
 
 Cover photo: Lunara Dossayeva
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/sabinasa/sabina-love-is-a-wind&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
-
 ### <span style="font-family:Andale Mono;">Single: Tired Eyes</span>
 {% include image-caption.html imageurl="/assets/images/posts/music/tiredeyes.jpg#left" caption="" width="50%" %}
 
@@ -32,7 +30,18 @@ Recording studio: Shaman Recording Studio (Astana, Kazakhstan)
 
 Cover photo: Sabina Sagynbayeva
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/sabinasa/sabina-tired-eyes&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+### <span style="font-family:Andale Mono;">EP: Dramatic</span>
+{% include image-caption.html imageurl="/assets/images/posts/music/dramatic.jpg#left" caption="" width="50%" %}
+
+[`Listen to the song on all streamin platforms`](https://distrokid.com/hyperfollow/sabina/dramatic-2)
+
+Music/Lyrics: Sabina Sagynbayeva
+
+Producer/Mixing Engineer: Dmitriy Fedorov
+
+Recording studio: Shaman Recording Studio (Astana, Kazakhstan)
+
+Cover illustration: Dana Tazhina
 
 
 
