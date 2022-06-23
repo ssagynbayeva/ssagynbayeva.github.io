@@ -7,7 +7,7 @@ title: Music
 ### <span style="font-family:Andale Mono;">Single: It Doesn't Matter When You Go</span>
 {% include image-caption.html imageurl="/assets/images/posts/music/IMG_1941_Original.jpg#left" caption="" width="50%" %}
 
-[`Listen to the song on all streamin platforms`](https://distrokid.com/hyperfollow/sabina/it-doesnt-matter-when-you-go)
+[`Listen to the song on all streaming platforms`](https://distrokid.com/hyperfollow/sabina/it-doesnt-matter-when-you-go)
 
 Music/Lyrics: Sabina Sagynbayeva
 
@@ -20,7 +20,7 @@ Cover photo: Sabina Sagynbayeva
 ### <span style="font-family:Andale Mono;">Single: Love Is a Wind</span>
 {% include image-caption.html imageurl="/assets/images/posts/music/loveisawind.jpg#left" caption="" width="50%" %}
 
-[`Listen to the song on all streamin platforms`](https://distrokid.com/hyperfollow/sabina/love-is-a-wind)
+[`Listen to the song on all streaming platforms`](https://distrokid.com/hyperfollow/sabina/love-is-a-wind)
 
 Music/Lyrics: Sabina Sagynbayeva
 
@@ -33,7 +33,7 @@ Cover photo: Lunara Dossayeva
 ### <span style="font-family:Andale Mono;">Single: Tired Eyes</span>
 {% include image-caption.html imageurl="/assets/images/posts/music/tiredeyes.jpg#left" caption="" width="50%" %}
 
-[`Listen to the song on all streamin platforms`](https://distrokid.com/hyperfollow/sabina/tired-eyes)
+[`Listen to the song on all streaming platforms`](https://distrokid.com/hyperfollow/sabina/tired-eyes)
 
 Music/Lyrics: Sabina Sagynbayeva
 
@@ -46,7 +46,7 @@ Cover photo: Sabina Sagynbayeva
 ### <span style="font-family:Andale Mono;">EP: Dramatic</span>
 {% include image-caption.html imageurl="/assets/images/posts/music/dramatic.jpg#left" caption="" width="50%" %}
 
-[`Listen to the EP on all streamin platforms`](https://distrokid.com/hyperfollow/sabina/dramatic-2)
+[`Listen to the EP on all streaming platforms`](https://distrokid.com/hyperfollow/sabina/dramatic-2)
 
 Music/Lyrics: Sabina Sagynbayeva
 
