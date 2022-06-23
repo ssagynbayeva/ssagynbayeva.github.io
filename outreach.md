@@ -23,7 +23,7 @@ Together with Professor Aikaterini Mandilara at Nazarbayev University, I ran the
 
 >## <span style="font-family:Andale Mono;">Invited Public Talks</span>
 
-<iframe src="https://player.youtube.com/watch?v=E-OefNM564E&t=2419s" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> *How Do Planets Form?* A public talk on planet formation for Astronomy on Tap, Baton Rouge. April, 2021 
+<iframe src="https://www.youtube.com/embed/E-OefNM564E&t=2419s" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> *How Do Planets Form?* A public talk on planet formation for Astronomy on Tap, Baton Rouge. April, 2021 
 
 
 <!-- >The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite> -->
