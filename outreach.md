@@ -19,7 +19,7 @@ I was an active volunteer at the "Education for all" center and the KIT inclusio
 ### <span style="font-family:Andale Mono;">Women in Physics Club</span>
 {% include image-caption.html imageurl="/assets/images/posts/outreach/women.jpg#right" caption="" width="400" %}
 
-Together with Professor Aikaterini Mandilara at Nazarbayev University, I ran the *Women in Physics* club, where we conducted meetings and different events to encourage female students to choose STEM-related majors and to provide support to those who have already chosen it. Some of the events we organized were a fundraising movie night to help a student with cancer, a talk on feminism and women in science, etc. The important goal is to provide a safe space to female students and faculty in Physics at Nazarbayev University. 
+I was a president of the *Women in Physics* club at Nazarbayev University, where we conducted meetings and different events to encourage female students to choose STEM-related majors and to provide support to those who have already chosen it. Some of the events we organized were a fundraising movie night to help a student with cancer (organized my the former president, Azel Murzabekova), a talk on feminism and women in science, etc. The important goal is to provide a safe space to female students and faculty in Physics at Nazarbayev University. 
 
 >## <span style="font-family:Andale Mono;">Invited Public Talks</span>
 
