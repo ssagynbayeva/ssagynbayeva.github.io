@@ -51,6 +51,8 @@ navigation:
     url: /music
   - text: Contact Me
     url: /contact
+  - text: CV
+    url: /cv
   
 
 # Required Plugins
