@@ -9,7 +9,7 @@ title: Research
 ### Stellar variability of HAT-P-11
 {% include image-caption.html imageurl="/assets/images/posts/research/starry.gif#right" caption="" width="400" %}
 
-We are mapping the surface of the star HAT-P-11 (a K4 dwarf that has two exoplanets orbiting it) using the Kepler data to infer the radii and latitudes of the starspots on the surface of the star. We are inferring these hyperparameters using Gaussian Processes for stellar light curves. Thanks to the Kepler short-cadence photometry, we are using multiple stellar light curves to do the ensemble statistics with [<span style="font-family:American Typewriter;">StarryProcess</span>](https://starry-process.readthedocs.io/en/latest/). I am working on this project with [Dr. Rodrigo Luger](https://www.luger.dev) and [Professor Will Farr](https://farr.github.io).
+We are mapping the surface of the star HAT-P-11 (a K4 dwarf that has two exoplanets orbiting it) using the Kepler data by inferring the parameters of the starspots (like radii and latitudes) on the surface of the star. This can be done efficiently using Gaussian Processes for stellar light curves. Thanks to the Kepler short-cadence photometry, we are using multiple stellar light curves to do the ensemble statistics with [<span style="font-family:American Typewriter;">StarryProcess</span>](https://starry-process.readthedocs.io/en/latest/). I am working on this project with [Dr. Rodrigo Luger](https://www.luger.dev) and [Professor Will Farr](https://farr.github.io).
 
 <!-- ### <span style="font-family:Andale Mono;">Binary black hole merger in AGN disks</span> -->
 ### Binary black hole merger in AGN disks
