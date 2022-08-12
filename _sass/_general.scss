@@ -23,12 +23,14 @@ a {
 a:hover {
     color: $gray-darkest;
 }
-#loader{
-	position: fixed;
-	width: 100%;
-	height: 100vh;
-	background: #21242d00 url("/assets/images/Earth-loader.gif") no-repeat center;
-	z-index: 999;
+
+#loader {
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    z-index: 1;
+    overflow: visible;
+    background: #21242d00 url("/assets/images/Earth-loader.gif") no-repeat center;
 }
 
 h1,
