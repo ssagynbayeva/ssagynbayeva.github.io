@@ -23,7 +23,15 @@ a {
 a:hover {
     color: $gray-darkest;
 }
-
+#loader {  
+    position: fixed;  
+    left: 0px;  
+    top: 0px;  
+    width: 100%;  
+    height: 100%;  
+    z-index: 9999;  
+    background: url('/assets/images/Earth-loader.gif') 50% 50% no-repeat rgb(249,249,249);  
+}  
 // #loader {
 //     position: fixed;
 //     width: 100%;
