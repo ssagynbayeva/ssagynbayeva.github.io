@@ -30,6 +30,7 @@
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
 
 <body class="{{ layout }}">
+    <div id="loading"></div>
     <div id="page" class="site">
 
         {% if page.url == "/" %}
@@ -86,6 +87,14 @@
     <script src="{{ site.baseurl }}/assets/js/jquery-3.4.1.min.js"></script>
     <script src="{{ site.baseurl }}/assets/js/plugins.js"></script>
     <script src="{{ site.baseurl }}/assets/js/custom.js"></script>
+
+    <!-- load a gif: -->
+    <script>
+        var preloader = document.getElementById('loader');
+        function preLoaderHandler(){
+            preloader.style.display = 'none';
+        }
+      </script>
 
 </body>
 
