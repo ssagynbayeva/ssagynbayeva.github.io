@@ -27,7 +27,7 @@
 // Import variables
 @import "variables";
 @import "reset";
-@import "loader";
+// @import "loader";
 @import "general";
 @import "structure";
 @import "header";
@@ -38,65 +38,3 @@
 @import "widgets";
 @import "footer";
 @import "media-queries";
-
-/*---------------------------------------
-    Preloader section              
------------------------------------------*/
-
-.preloader {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    z-index: 99999;
-    display: flex;
-    flex-flow: row nowrap;
-    justify-content: center;
-    align-items: center;
-    background: none repeat scroll 0 0 #ffffff;
-  }
-  
-  .spinner {
-    margin: 100px auto;
-    width: 40px;
-    height: 40px;
-    position: relative;
-    text-align: center;
-  }
-  
-  .dot1 {
-    width: 100%;
-    height: 100%;
-    margin-left: -20px;
-    display: inline-block;
-    position: absolute;
-    top: 0;
-    background-color: #999;
-    border-radius: 100%;
-    z-index: 1;
-  }
-  
-  .dot2 {
-    display: inline-block;
-    position: absolute;
-    background-color: #666;
-    border-radius: 100%;
-    width: 40%;
-    height: 40%;
-    margin-left: -20px;
-    top: 30px;
-    left: 0px;
-    z-index: 2;
-    -webkit-animation: sk-orbit 0.75s infinite linear;
-    animation: sk-orbit 0.75s infinite linear;
-  }
-  
-  @keyframes sk-orbit {
-    0% { z-index: 2; transform: translate(0%, 0%); }
-    49% { z-index: 2; transform: translate(400%, -200%); }
-    50% { z-index: 0; transform: translate(400%, -200%); }
-    99% { z-index: 0; transform: translate(0%, 0%); }
-    100% { z-index: 2; transform: translate(0%, 0%); }
-  }
-  
