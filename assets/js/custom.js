@@ -65,10 +65,10 @@
 		//     loader = document.getElementById('loader');
 		//     loadNow(1);
 		// });
-		$(window).load(function() {
-		// Animate loader off screen
-		$(".loader").fadeOut("slow");;
-	});
+	// 	$(window).load(function() {
+	// 	// Animate loader off screen
+	// 	$(".loader").fadeOut("slow");;
+	// });
 
 	});
 
