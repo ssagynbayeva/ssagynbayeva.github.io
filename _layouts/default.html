@@ -30,10 +30,10 @@
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
 
 <body class="{{ layout }}">
-    <div id="loader"></div>
+    <!-- <div id="loader"></div>
     <div class="loader">  
         <img src="/assets/images/Earth-loader.gif" alt="">  
-    </div> 
+    </div>  -->
     <div id="page" class="site">
 
         {% if page.url == "/" %}
@@ -92,11 +92,11 @@
     <script src="{{ site.baseurl }}/assets/js/custom.js"></script>
 
     <!-- load a gif: -->
-    <script>  
+    <!-- <script>  
         $(window).on('load', function () {  
             $(".loader").fadeOut("slow");  
        });  
-    </script>  
+    </script>   -->
 
 </body>
 
