@@ -6,9 +6,9 @@ title: Home
 {% if page.url == "/" %}
 <!-- Featured-->
 <script>
-    $(document).ready(function(){
-    $("#preloader").hide();
-   });
+    $(document).ready(function() {
+    setTimeout(function() { $("#preloader").fadeOut(1500); }, 500)
+  });
   </script>
   
 <div class="featured-posts outer">
