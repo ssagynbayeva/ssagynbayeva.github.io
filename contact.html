@@ -8,13 +8,17 @@ title: Contact Me
   1. defined "email: youremail@email.com" in _config.yml file.
   2. verify your form on formspree.io.
 -->
-<script>
+<!-- <script>
   $(document).ready(function(){
   $("#preloader").hide();
  });
-</script>
+</script> -->
 
-<div id="preloader"></div>
+<script>
+  $(document).ready(function() {
+  setTimeout(function() { $("#preloader").fadeOut(1500); }, 5000)
+});
+</script>
 
 <div id="content" class="site-content fadeInDown delay_075s">
   <main id="main" class="site-main outer">
