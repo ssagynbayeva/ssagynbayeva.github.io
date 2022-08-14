@@ -3,6 +3,11 @@ layout: page
 title: Outreach
 # featured_image: /assets/images/pages/about.jpg
 ---
+<script>
+  $(document).ready(function() {
+  setTimeout(function() { $("#preloader").fadeOut(1500); }, 100)
+});
+</script>
 
 <!-- ### <span style="font-family:Andale Mono;">Astrobites</span> -->
 ### Astrobites

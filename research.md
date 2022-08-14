@@ -3,6 +3,11 @@ layout: page
 title: Research
 # featured_image: /assets/images/pages/about.jpg
 ---
+<script>
+  $(document).ready(function() {
+  setTimeout(function() { $("#preloader").fadeOut(1500); }, 100)
+});
+</script>
 >## <span style="font-family:Caveat;">Current Projects</span>
 
 <!-- ### <span style="font-family:Andale Mono;">Stellar spots of HAT-P-11</span> -->

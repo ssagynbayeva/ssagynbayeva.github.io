@@ -5,7 +5,7 @@ title: CV
 ---
 <script>
   $(document).ready(function() {
-  setTimeout(function() { $("#preloader").fadeOut(1500); }, 500)
+  setTimeout(function() { $("#preloader").fadeOut(1500); }, 100)
 });
 </script>
 <a href="/CV/cv_Sabina_Sagynbayeva.pdf" target="_blank">View or download my CV</a>
