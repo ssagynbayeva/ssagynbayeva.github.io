@@ -5,7 +5,12 @@ title: Home
 
 {% if page.url == "/" %}
 <!-- Featured-->
-
+<script>
+    $(document).ready(function(){
+    $("#preloader").hide();
+   });
+  </script>
+  
 <div class="featured-posts outer">
     {% for post in site.posts %}
         {% if post.featured == true %}
