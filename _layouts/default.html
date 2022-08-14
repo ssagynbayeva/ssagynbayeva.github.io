@@ -26,19 +26,6 @@
     <link href="{{ site.baseurl }}/assets/css/style.css" rel="stylesheet">
 
 
-    <script type="text/javascript" language="javascript">
-
-        $(document).ready(function () {
-             setTimeout(function () {
-                  var imgs = document.getElementsByClassName("lazy-load");
-                  for (var i = 0; i < imgs.length; i++) {
-                       imgs[i].src = imgs[i].getAttribute("data-src");
-                  }
-             }, 1000);
-        });
-
-   </script>
-
 </head>
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
@@ -47,15 +34,15 @@
     <!-- <div id="loader"></div> -->
     <!-- PRE LOADER -->
 
-    <div class="loader">
+    <!-- <div class="loader">
         <div class="spinner">
              <div class="dot1"></div>
              <div class="dot2"></div>
         </div>
-    </div>
-    <!-- <div class="loader">  
-        <img src="/assets/images/Earth-loader.gif" alt="">  
-    </div>  -->
+    </div> -->
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <div id="preloader"></div>
     <div id="page" class="site">
 
         {% if page.url == "/" %}
