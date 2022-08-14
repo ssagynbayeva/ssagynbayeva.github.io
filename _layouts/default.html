@@ -25,6 +25,20 @@
     <!-- CSS Styles -->
     <link href="{{ site.baseurl }}/assets/css/style.css" rel="stylesheet">
 
+
+    <script type="text/javascript" language="javascript">
+
+        $(document).ready(function () {
+             setTimeout(function () {
+                  var imgs = document.getElementsByClassName("lazy-load");
+                  for (var i = 0; i < imgs.length; i++) {
+                       imgs[i].src = imgs[i].getAttribute("data-src");
+                  }
+             }, 1000);
+        });
+
+   </script>
+
 </head>
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
@@ -105,7 +119,7 @@
 
     <script type="text/javascript">  
     $(window).load(function() {  
-        $("#loader").fadeOut(1000);  
+        $(".loader").fadeOut(1000);  
     });
     </script>   -->
     <!-- <script>  
