@@ -30,7 +30,15 @@
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
 
 <body class="{{ layout }}">
-    <div id="loader"></div>
+    <!-- <div id="loader"></div> -->
+    <!-- PRE LOADER -->
+
+    <div class="loader">
+        <div class="spinner">
+             <div class="dot1"></div>
+             <div class="dot2"></div>
+        </div>
+    </div>
     <!-- <div class="loader">  
         <img src="/assets/images/Earth-loader.gif" alt="">  
     </div>  -->
