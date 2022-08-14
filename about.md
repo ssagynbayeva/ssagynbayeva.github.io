@@ -3,6 +3,11 @@ layout: page
 title: About
 # featured_image: /assets/images/pages/about.jpg
 ---
+<script>
+  $(document).ready(function() {
+  setTimeout(function() { $("#preloader").fadeOut(1500); }, 100)
+});
+</script>
 
 {% include image-caption.html imageurl="/assets/images/posts/about/A73CF106-3470-4F6A-A40C-BF62956A5530.JPG#left" caption="Alt text: The picture of Sabina smiling. She is wearing a red shirt with stripes and round glasses." %}
 
