@@ -16,3 +16,10 @@ $(function() {
     });
   });
 });
+
+$(function () {
+  $.nette.init();
+  $('[data-toggle="tooltip"]').tooltip();
+  $('body').tooltip({ selector: '[data-toggle="tooltip"]' });
+  $(".button-collapse").sideNav();
+});
