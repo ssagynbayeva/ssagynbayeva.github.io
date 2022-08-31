@@ -9,7 +9,11 @@ title: About
 });
 </script>
 
-{% include image-caption.html imageurl="/assets/images/posts/about/A73CF106-3470-4F6A-A40C-BF62956A5530.JPG#left" caption="Alt text: The picture of Sabina smiling. She is wearing a red shirt with stripes and round glasses." %}
+{% include image-caption.html imageurl="/assets/images/posts/about/IMG_0474.jpg#left" caption="Alt text: The picture of Sabina smiling in Madison, WI. She is wearing a green jacket and round glasses. Image credit: Luke Davies" %}
+
+{% include image-caption.html imageurl="/assets/images/posts/about/IMG_0307.jpg#center" caption="Alt text: The picture of Sabina's dog, Pluto, smiling. He's a beagle mix, and his colors are orange and white." %}
+
+{% include image-caption.html imageurl="/assets/images/posts/about/IMG_5258_Original.jpg#right" caption="Alt text: The picture of Sabina holding her guitar. She's wearing a white dress and round glasses. Image credit: Madina Kabdualiyeva." %}
 
 Hi! I am an Astrophysics graduate student at Stony Brook University, originally from Kazakhstan. I work with [Phil Armitage](http://www.astro.sunysb.edu/parmitage/), and my scientific interests span planet formation, accretion disks, and exoplanets. You can also find me at the [Center for Computational Astrophysics](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics) (Flatiron Institute), where I am always happy to chat about science over a cup of coffee! You can find my academic CV <a href="/CV/cv_Sabina_Sagynbayeva.pdf" target="_blank">here</a>.
 
