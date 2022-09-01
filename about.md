@@ -25,6 +25,7 @@ title: About
 .column {
   float: left;
   width: 33.33%;
+  height:100px;
   padding: 5px;
 }
 
