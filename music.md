@@ -3,8 +3,14 @@ layout: page
 title: Music
 # featured_image: /assets/images/pages/about.jpg
 ---
+<script>
+  $(document).ready(function() {
+  setTimeout(function() { $("#preloader").fadeOut(1500); }, 100)
+});
+</script>
 
-### <span style="font-family:Andale Mono;">Single: It Doesn't Matter When You Go</span>
+<!-- ### <span style="font-family:Andale Mono;">Single: It Doesn't Matter When You Go</span> -->
+### Single: It Doesn't Matter When You Go
 {% include image-caption.html imageurl="/assets/images/posts/music/IMG_1941_Original.jpg#left" caption="" width="50%" %}
 
 [`Listen to the song on all streaming platforms`](https://distrokid.com/hyperfollow/sabina/it-doesnt-matter-when-you-go)
@@ -17,7 +23,8 @@ Recording studio: Shaman Recording Studio (Astana, Kazakhstan)
 
 Cover photo: Sabina Sagynbayeva
 
-### <span style="font-family:Andale Mono;">Single: Love Is a Wind</span>
+<!-- ### <span style="font-family:Andale Mono;">Single: Love Is a Wind</span> -->
+### Single: Love Is a Wind
 {% include image-caption.html imageurl="/assets/images/posts/music/loveisawind.jpg#left" caption="" width="50%" %}
 
 [`Listen to the song on all streaming platforms`](https://distrokid.com/hyperfollow/sabina/love-is-a-wind)
@@ -30,7 +37,8 @@ Recording studio: Shaman Recording Studio (Astana, Kazakhstan)
 
 Cover photo: Lunara Dossayeva
 
-### <span style="font-family:Andale Mono;">Single: Tired Eyes</span>
+<!-- ### <span style="font-family:Andale Mono;">Single: Tired Eyes</span> -->
+### Single: Tired Eyes
 {% include image-caption.html imageurl="/assets/images/posts/music/tiredeyes.jpg#left" caption="" width="50%" %}
 
 [`Listen to the song on all streaming platforms`](https://distrokid.com/hyperfollow/sabina/tired-eyes)
@@ -43,7 +51,8 @@ Recording studio: Shaman Recording Studio (Astana, Kazakhstan)
 
 Cover photo: Sabina Sagynbayeva
 
-### <span style="font-family:Andale Mono;">EP: Dramatic</span>
+<!-- ### <span style="font-family:Andale Mono;">EP: Dramatic</span> -->
+### EP: Dramatic
 {% include image-caption.html imageurl="/assets/images/posts/music/dramatic.jpg#left" caption="" width="50%" %}
 
 [`Listen to the EP on all streaming platforms`](https://distrokid.com/hyperfollow/sabina/dramatic-2)
