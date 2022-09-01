@@ -25,7 +25,6 @@ title: About
 .column {
   float: left;
   width: 33.33%;
-  height:100px;
   padding: 5px;
 }
 
@@ -41,13 +40,13 @@ title: About
 
 <div class="row">
   <div class="column">
-    <img src="/assets/images/posts/about/IMG_0474.jpg" alt="Alt text: The picture of Sabina smiling in Madison, WI. She is wearing a green jacket and round glasses. Image credit: Luke Davies," style="width:100%">
+    <img src="/assets/images/posts/about/IMG_0474.jpg" alt="Alt text: The picture of Sabina smiling in Madison, WI. She is wearing a green jacket and round glasses. Image credit: Luke Davies." style="width:100%" style="height:100px">
   </div>
   <div class="column">
-    <img src="/assets/images/posts/about/IMG_0307.jpg" alt="Alt text: The picture of Sabina's dog, Pluto, smiling. He's a beagle mix, and his colors are orange and white." style="width:100%">
+    <img src="/assets/images/posts/about/IMG_0307.jpg" alt="Alt text: The picture of Sabina's dog, Pluto, smiling. He's a beagle mix, and his colors are orange and white." style="width:100%" style="height:100px">
   </div>
   <div class="column">
-    <img src="/assets/images/posts/about/IMG_5258_Original.jpg" alt="Alt text: The picture of Sabina holding her guitar. She's wearing a white dress and round glasses. Image credit: Madina Kabdualiyeva." style="width:100%">
+    <img src="/assets/images/posts/about/IMG_5258_Original.jpg" alt="Alt text: The picture of Sabina holding her guitar. She's wearing a white dress and round glasses. Image credit: Madina Kabdualiyeva." style="width:100%" style="height:100px">
   </div>
 </div>
 
