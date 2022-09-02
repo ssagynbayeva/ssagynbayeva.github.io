@@ -8,4 +8,4 @@ title: CV
   setTimeout(function() { $("#preloader").fadeOut(1500); }, 100)
 });
 </script>
-<a href="/CV/cv_Sabina_Sagynbayeva.pdf" target="_blank">View or download my CV</a>
+<a href="/CV/ssagynbayeva_cv.pdf" target="_blank">View or download my CV</a>
