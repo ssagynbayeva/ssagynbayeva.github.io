@@ -6,6 +6,13 @@ featured_image_thumbnail: assets/images/posts/blog/20180803_092910.jpg
 featured_image: assets/images/posts/blog/20180803_092910.jpg
 featured: true
 ---
+<script>
+  $(document).ready(function() {
+  setTimeout(function() { $("#preloader").fadeOut(1500); }, 100)
+});
+</script>
+>## <span style="font-family:Caveat;">Current Projects</span>
+
 *The image shows the so-called Letters to Juliet. I took this picture in Verona, Italy. Visitors stuff their letters into cracks in the walls and a special post box, asking Juliet (From Romeo & Juliet) for counsel on their love lives.*
 
 So, I decided to start a blog. I have never wanted to be a blogger, but I love writing. And here I am, starting a blog with a hope that no one will read it, and I will just keep my thoughts to myself.
