@@ -4,7 +4,7 @@ title: 'one thing to say.'
 tags: [writing, blog]
 featured_image_thumbnail: assets/images/posts/blog/20180803_092910.jpg
 featured_image: assets/images/posts/blog/20180803_092910.jpg
-featured: true
+featured: false
 ---
 <script>
   $(document).ready(function() {

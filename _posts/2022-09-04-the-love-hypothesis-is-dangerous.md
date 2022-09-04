@@ -4,7 +4,7 @@ title: 'The Love Hypothesis is dangerous.'
 tags: [writing, blog, books, literature]
 featured_image_thumbnail: assets/images/posts/blog/thelovehypothesis.jpeg
 featured_image: assets/images/posts/blog/thelovehypothesis.jpeg
-featured: true
+featured: false
 ---
 <script>
   $(document).ready(function() {
