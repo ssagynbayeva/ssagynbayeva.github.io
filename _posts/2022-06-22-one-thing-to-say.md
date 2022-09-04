@@ -11,7 +11,6 @@ featured: true
   setTimeout(function() { $("#preloader").fadeOut(1500); }, 100)
 });
 </script>
->## <span style="font-family:Caveat;">Current Projects</span>
 
 *The image shows the so-called Letters to Juliet. I took this picture in Verona, Italy. Visitors stuff their letters into cracks in the walls and a special post box, asking Juliet (From Romeo & Juliet) for counsel on their love lives.*
 
