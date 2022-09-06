@@ -18,26 +18,26 @@ I am a regular writer for Astrobites, a website where graduate students publish 
 [`Read my posts`](https://astrobites.org/author/ssagynbayeva/)
 
 ### Physics Graduate Student Association (PGSA)
-{% include image-caption.html imageurl="/assets/images/posts/outreach/pgsa.png#right" caption="" width="300" height="300" %}
+{% include image-caption.html imageurl="/assets/images/posts/outreach/pgsa.png#right" caption="" width="100" height="100" %}
 
 I am actively involved in the PGSA work at the department. I first was an Upper-class-person at large and a Director of External Affairs, and now, I am a Director of Marketing. We really care about advocating for students in our department -- Stony Brook students, please, either <a href="mailto:sabina.sagynbayeva@stonybrook.edu">reach out to me</a> or to <a href="mailto:sbupgsa@gmail.com">anyone else in PGSA</a> if you have questions and/or concerns.
 
 [`PGSA wiki page`](http://grad08.physics.sunysb.edu/wiki/Main_Page)
 
 ### Graduate Student Organization (GSO)
-{% include image-caption.html imageurl="/assets/images/posts/outreach/gso.png#right" caption="" width="300" height="300" %}
+{% include image-caption.html imageurl="/assets/images/posts/outreach/gso.png#right" caption="" width="100" height="100" %}
 
 I am a senator from Physics & Astronomy Department in Graduate Student Organization (GSO). There, I was involved in the Graduate DEI committee and The Distinguished Travel Award committee. Click [here](https://www.stonybrookgso.org) to learn about GSO at Stony Brook! 
 
 <!-- ### <span style="font-family:Andale Mono;">KIT inclusion club</span> -->
 ### KIT inclusion club
-{% include image-caption.html imageurl="/assets/images/posts/outreach/kit.jpg#right" caption="" width="300" height="300" %}
+{% include image-caption.html imageurl="/assets/images/posts/outreach/kit.jpg#right" caption="" width="100" height="100" %}
 
 I was an active volunteer at the "Education for all" center and the KIT inclusion club in Astana, organizations that help teenagers with mental and physical disabilities. Those are teenagers with autism, down syndrome, cerebral palsy, deafness, etc. I took part and organized our first inclusive musical theatre performances in Kazakhstan: "The Jungle Book," "Beauty and the Beast," and "Dreamers," the original musical. These performances were hugely covered in Kazakhstani media, e.g. on radio and TV programs.
 
 <!-- ### <span style="font-family:Andale Mono;">Women in Physics Club</span> -->
 ### Women in Physics Club
-{% include image-caption.html imageurl="/assets/images/posts/outreach/women.jpg#right" caption="" width="300" height="300" %}
+{% include image-caption.html imageurl="/assets/images/posts/outreach/women.jpg#right" caption="" width="100" height="100" %}
 
 I was a president of the *Women in Physics* club at Nazarbayev University, where we conducted meetings and different events to encourage female students to choose STEM-related majors and to provide support to those who have already chosen it. The important goal was to provide a safe space to female students and faculty in Physics at Nazarbayev University. 
 
