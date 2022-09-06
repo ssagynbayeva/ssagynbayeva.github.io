@@ -27,7 +27,7 @@ I am actively involved in the PGSA work at the department. I first was an Upper-
 ### Graduate Student Organization (GSO)
 {% include image-caption.html imageurl="/assets/images/posts/outreach/gso.png#right" caption="" width="100" height="100" %}
 
-I am a senator from Physics & Astronomy Department in Graduate Student Organization (GSO). There, I was involved in the Graduate DEI committee and The Distinguished Travel Award committee. Click [here](https://www.stonybrookgso.org) to learn about GSO at Stony Brook! 
+I am a senator for the Department of Physics & Astronomy in Graduate Student Organization (GSO). There, I was involved in the Graduate DEI committee and The Distinguished Travel Award committee. Click [here](https://www.stonybrookgso.org) to learn about GSO at Stony Brook! 
 
 <!-- ### <span style="font-family:Andale Mono;">KIT inclusion club</span> -->
 ### KIT inclusion club
