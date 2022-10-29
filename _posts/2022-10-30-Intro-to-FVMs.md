@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Intro to FVMs'
-tags: [writing, blog]
+tags: []
 featured_image_thumbnail: assets/images/posts/blog/20180803_092910.jpg
 featured_image: assets/images/posts/blog/slack_humor.png
 featured: true
