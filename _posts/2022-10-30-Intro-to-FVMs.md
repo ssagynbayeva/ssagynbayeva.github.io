@@ -13,7 +13,7 @@ featured: true
 </script>
 
 
-Most of what is shown here is based on [Micahel Zingale's textbook](http://bender.astro.sunysb.edu/hydro_by_example/CompHydroTutorial.pdf). 
+Most of what is shown here is based on [Michael Zingale's textbook](http://bender.astro.sunysb.edu/hydro_by_example/CompHydroTutorial.pdf). 
 
 First, I just want to convince you that hydro simulations are just *a work of art*. 
 
