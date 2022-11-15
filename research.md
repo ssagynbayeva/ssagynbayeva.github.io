@@ -14,7 +14,7 @@ title: Research
 ### Stellar variability of HAT-P-11
 {% include image-caption.html imageurl="/assets/images/posts/research/HAT-P-11-ani.gif#right" caption="" width="400" %}
 
-We are mapping the surface of the star HAT-P-11 (a K4 dwarf that has two exoplanets orbiting it) using the Kepler data by inferring the parameters of the starspots (like radii and latitudes) on the surface of the star. This can be done efficiently using Gaussian Processes for stellar light curves. Thanks to the Kepler short-cadence photometry, we are using multiple stellar light curves to do the ensemble statistics with [<span style="font-family:American Typewriter;">StarryProcess</span>](https://starry-process.readthedocs.io/en/latest/). I am working on this project with [Dr. Rodrigo Luger](https://www.luger.dev) and [Professor Will Farr](https://farr.github.io).
+We are interested in mapping the surface of the star HAT-P-11 (a K4 dwarf that has two exoplanets orbiting it) using the Kepler data. This can be efficiently done (we hope) using hierarchical Bayesian modeling treating the starspots on the surface of the star as a statistical population! For this, we are considering the properties of the starspots as hyperparameters of our Gaussian Process model.Thanks to the Kepler short-cadence photometry, we are using multiple stellar light curves to do the ensemble statistics with [<span style="font-family:American Typewriter;">StarryProcess</span>](https://starry-process.readthedocs.io/en/latest/). I am working on this project with [Dr. Rodrigo Luger](https://www.luger.dev) and [Professor Will Farr](https://farr.github.io).
 
 <!-- ### <span style="font-family:Andale Mono;">Binary black hole merger in AGN disks</span> -->
 ### Binary black hole merger in AGN disks
