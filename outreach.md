@@ -48,6 +48,9 @@ I was a president of the *Women in Physics* club at Nazarbayev University, where
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E-OefNM564E" title="How Do Planets Form? A public talk on planet formation for Astronomy on Tap, Baton Rouge. April, 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7dNKDIJ9DM" title="The formation of gas giants. iTelescope Webinar." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 <!-- >The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite> -->
 <!-- 
 As a hobby, Daniel authors the most influential JavaScript blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl.
