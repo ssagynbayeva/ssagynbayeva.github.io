@@ -10,11 +10,16 @@ title: Research
 </script>
 >## <span style="font-family:Caveat;">Current Projects</span>
 
+### Circumplanetary disks
+{% include image-caption.html imageurl="/assets/images/posts/research/den_smr3.png#right" caption="" width="400" %}
+
+Circumplanetary disks, of which the disk in the PDS 70 system is the first directly observed example, play a crucial role in the accretion of material onto planets, as well as in the formation of their satellite systems. By studying the properties of circumplanetary disks, we can gain insight into the role they play in shaping the Solar System and other planetary systems. In our work, we developed high-resolution 3D hydrodynamical simulations with Athena++ to study angular momentum transport onto CPDs. Angular momentum accretion onto CPDs determines the overall long-term disk evolution, and helps us understand the accretion of dust that creates planetary satellites. We are working on nested mesh simulations that will help us understand the early stages of the formation of Solar System and extrasolar gas giants and potentially their satellites. This work is conducted under the supervision of [Professor Phil Armitage](http://www.astro.sunysb.edu/parmitage/) (Stony Brook/CCA).
+
 <!-- ### <span style="font-family:Andale Mono;">Stellar spots of HAT-P-11</span> -->
-### Stellar variability of HAT-P-11
+### Stellar variability 
 {% include image-caption.html imageurl="/assets/images/posts/research/HAT-P-11-ani.gif#right" caption="" width="400" %}
 
-We are interested in mapping the surface of the star HAT-P-11 (a K4 dwarf that has two exoplanets orbiting it) using the Kepler data. This can be efficiently done (we hope) using hierarchical Bayesian modeling treating the starspots on the surface of the star as a statistical population! For this, we are considering the properties of the starspots as hyperparameters of our Gaussian Process model.Thanks to the Kepler short-cadence photometry, we are using multiple stellar light curves to do the ensemble statistics with [<span style="font-family:American Typewriter;">StarryProcess</span>](https://starry-process.readthedocs.io/en/latest/). I am working on this project with [Dr. Rodrigo Luger](https://www.luger.dev) and [Professor Will Farr](https://farr.github.io).
+Planets help us to understand stars, and vice-versa. We are interested in mapping stellar surfaces of exoplanets-hosting stars using the Kepler and TESS data. This can be efficiently done (we hope) using hierarchical Bayesian modeling treating the starspots on the surfaces of stars as a statistical population! For this, we are considering the properties of the starspots as hyperparameters of our Gaussian Process model. We are using multiple stellar light curves to do the ensemble statistics with [<span style="font-family:American Typewriter;">StarryProcess</span>](https://starry-process.readthedocs.io/en/latest/), but the exoplanets orbiting those stars already help to set constraints, because of their transits. I am working on this project with [Dr. Rodrigo Luger](https://www.luger.dev) and [Professor Will Farr](https://farr.github.io).
 
 <!-- ### <span style="font-family:Andale Mono;">Binary black hole merger in AGN disks</span> -->
 ### Binary black hole merger in AGN disks
@@ -23,11 +28,11 @@ We are interested in mapping the surface of the star HAT-P-11 (a K4 dwarf that h
 It is widely accepted that active galactic nuclei (AGN) are powered by the release of gravitational energy as mass falls onto a supermassive black hole (SMBH) in the center of AGN via accretion. There are also other, not so massive, black holes (BHs) dynamically moving inside the AGN disks. These dynamical interactions between black holes and the disks they are embedded into might lead some of the black holes to form binaries and merge. I am working on analyzing the evolution of orbital parameters of black hole binaries in AGN disks using 3D hydrodynamical simulations. I am working on this project with [Professor Saavik Ford](https://saavikford.wixsite.com/saavik), [Professor Barry McKernan](https://www.amnh.org/research/staff-directory/barry-mckernan), and [Professor Phil Armitage](http://www.astro.sunysb.edu/parmitage/).
 
 <!-- ### <span style="font-family:Andale Mono;">Migration of planets in protoplanetary disks</span> -->
-### Migration of planets in protoplanetary disks
+<!-- ### Migration of planets in protoplanetary disks
 {% include image-caption.html imageurl="/assets/images/posts/research/den_smr3.png#right" caption="" width="400" %}
 
 Planetary systems are dynamic places. As the planet's tidal force exerts a torque on the disk, the back-reaction from the disk also torques the planet, causing it to migrate. In this project, we are concerned about Type I migration - the migration of low-mass planets. Particularly, we aim to investigate the migration due to thermal torques, considering the planet as a luminous object extracting thermal energy on the disk.
-This work is conducted under the supervision of [Professor Phil Armitage](http://www.astro.sunysb.edu/parmitage/) (Stony Brook/CCA) and [Dr. Yan-Fei Jiang](https://jiangyanfei1986.wixsite.com/yanfei-homepage/home) (CCA).
+This work is conducted under the supervision of [Professor Phil Armitage](http://www.astro.sunysb.edu/parmitage/) (Stony Brook/CCA) and [Dr. Yan-Fei Jiang](https://jiangyanfei1986.wixsite.com/yanfei-homepage/home) (CCA). -->
 
 >## <span style="font-family:Caveat;">Past Projects</span>
 
