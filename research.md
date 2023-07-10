@@ -15,11 +15,15 @@ title: Research
 
 Circumplanetary disks, of which the disk in the PDS 70 system is the first directly observed example, play a crucial role in the accretion of material onto planets, as well as in the formation of their satellite systems. By studying the properties of circumplanetary disks, we can gain insight into the role they play in shaping the Solar System and other planetary systems. In our work, we developed high-resolution 3D hydrodynamical simulations with Athena++ to study angular momentum transport onto CPDs. Angular momentum accretion onto CPDs determines the overall long-term disk evolution, and helps us understand the accretion of dust that creates planetary satellites. We are working on nested mesh simulations that will help us understand the early stages of the formation of Solar System and extrasolar gas giants and potentially their satellites. This work is conducted under the supervision of [Professor Phil Armitage](http://www.astro.sunysb.edu/parmitage/) (Stony Brook/CCA).
 
+[`View my poster for Origins of the Solar Systems 2023`](https://github.com/ssagynbayeva/posters/Origins-poster-print.pdf)
+
 <!-- ### <span style="font-family:Andale Mono;">Stellar spots of HAT-P-11</span> -->
 ### Stellar variability 
 {% include image-caption.html imageurl="/assets/images/posts/research/HAT-P-11-ani.gif#right" caption="" width="400" %}
 
 Planets help us to understand stars, and vice-versa. We are interested in mapping stellar surfaces of exoplanets-hosting stars using the Kepler and TESS data. This can be efficiently done (we hope) using hierarchical Bayesian modeling treating the starspots on the surfaces of stars as a statistical population! For this, we are considering the properties of the starspots as hyperparameters of our Gaussian Process model. We are using multiple stellar light curves to do the ensemble statistics with [<span style="font-family:American Typewriter;">StarryProcess</span>](https://starry-process.readthedocs.io/en/latest/), but the exoplanets orbiting those stars already help to set constraints, because of their transits. I am working on this project with [Dr. Rodrigo Luger](https://www.luger.dev) and [Professor Will Farr](https://farr.github.io).
+
+[`View my poster for ERES 2023`](https://github.com/ssagynbayeva/posters/ERES-poster-print.pdf)
 
 <!-- ### <span style="font-family:Andale Mono;">Binary black hole merger in AGN disks</span> -->
 ### Binary black hole merger in AGN disks
