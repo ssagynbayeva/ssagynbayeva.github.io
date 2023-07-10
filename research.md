@@ -23,7 +23,7 @@ Circumplanetary disks, of which the disk in the PDS 70 system is the first direc
 
 Planets help us to understand stars, and vice-versa. We are interested in mapping stellar surfaces of exoplanets-hosting stars using the Kepler and TESS data. This can be efficiently done (we hope) using hierarchical Bayesian modeling treating the starspots on the surfaces of stars as a statistical population! For this, we are considering the properties of the starspots as hyperparameters of our Gaussian Process model. We are using multiple stellar light curves to do the ensemble statistics with [<span style="font-family:American Typewriter;">StarryProcess</span>](https://starry-process.readthedocs.io/en/latest/), but the exoplanets orbiting those stars already help to set constraints, because of their transits. I am working on this project with [Dr. Rodrigo Luger](https://www.luger.dev) and [Professor Will Farr](https://farr.github.io).
 
-<a href="/posters/ERES-poster-print.pdf" target="_blank">View my poster for Origins of the Solar Systems 2023</a>
+<a href="/posters/ERES-poster-print.pdf" target="_blank">View my poster for ERES 2023</a>
 
 <!-- ### <span style="font-family:Andale Mono;">Binary black hole merger in AGN disks</span> -->
 ### Binary black hole merger in AGN disks
