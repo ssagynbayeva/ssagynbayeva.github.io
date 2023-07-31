@@ -11,7 +11,7 @@ title: Research
 >## <span style="font-family:Caveat;">Current Projects</span>
 
 ### Circumplanetary disks
-{% include image-caption.html imageurl="/assets/images/posts/research/den_smr3.png#right" caption="" width="400" %}
+{% include image-caption.html imageurl="/assets/images/posts/research/cpd-den.png#right" caption="" width="400" %}
 
 Circumplanetary disks, of which the disk in the PDS 70 system is the first directly observed example, play a crucial role in the accretion of material onto planets, as well as in the formation of their satellite systems. By studying the properties of circumplanetary disks, we can gain insight into the role they play in shaping the Solar System and other planetary systems. In our work, we developed high-resolution 3D hydrodynamical simulations with Athena++ to study angular momentum transport onto CPDs. Angular momentum accretion onto CPDs determines the overall long-term disk evolution, and helps us understand the accretion of dust that creates planetary satellites. We are working on nested mesh simulations that will help us understand the early stages of the formation of Solar System and extrasolar gas giants and potentially their satellites. This work is conducted under the supervision of [Professor Phil Armitage](http://www.astro.sunysb.edu/parmitage/) (Stony Brook/CCA).
 
@@ -27,7 +27,7 @@ Planets help us to understand stars, and vice-versa. We are interested in mappin
 
 <!-- ### <span style="font-family:Andale Mono;">Binary black hole merger in AGN disks</span> -->
 ### Binary black hole merger in AGN disks
-{% include image-caption.html imageurl="/assets/images/posts/research/ecc005.gif#right" caption="" width="400" %}
+{% include image-caption.html imageurl="/assets/images/posts/research/bbh.gif#right" caption="" width="400" %}
 
 It is widely accepted that active galactic nuclei (AGN) are powered by the release of gravitational energy as mass falls onto a supermassive black hole (SMBH) in the center of AGN via accretion. There are also other, not so massive, black holes (BHs) dynamically moving inside the AGN disks. These dynamical interactions between black holes and the disks they are embedded into might lead some of the black holes to form binaries and merge. I am working on analyzing the evolution of orbital parameters of black hole binaries in AGN disks using 3D hydrodynamical simulations. I am working on this project with [Professor Saavik Ford](https://saavikford.wixsite.com/saavik), [Professor Barry McKernan](https://www.amnh.org/research/staff-directory/barry-mckernan), and [Professor Phil Armitage](http://www.astro.sunysb.edu/parmitage/).
 
