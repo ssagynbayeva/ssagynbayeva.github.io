@@ -10,6 +10,34 @@ title: Music
 </script>
 
 <!-- ### <span style="font-family:Andale Mono;">Single: It Doesn't Matter When You Go</span> -->
+### Single: will you?
+{% include image-caption.html imageurl="/assets/images/posts/music/forgood.jpg#left" caption="" width="50%" %}
+
+[`Listen to the song on all streaming platforms`](https://distrokid.com/hyperfollow/sabina/for-good)
+
+Music/Lyrics: Sabina Sagynbayeva
+
+Producer: Dmitriy Semenov
+
+Recording studio: Shaman Recording Studio (Astana, Kazakhstan)
+
+Cover photo: Sabina Sagynbayeva
+
+<!-- ### <span style="font-family:Andale Mono;">Single: It Doesn't Matter When You Go</span> -->
+### Single: will you?
+{% include image-caption.html imageurl="/assets/images/posts/music/willyou.jpg#left" caption="" width="50%" %}
+
+[`Listen to the song on all streaming platforms`](https://distrokid.com/hyperfollow/sabina/will-you)
+
+Music/Lyrics: Sabina Sagynbayeva
+
+Producer: Dmitriy Semenov
+
+Recording studio: Shaman Recording Studio (Astana, Kazakhstan)
+
+Cover photo: Sabina Sagynbayeva
+
+<!-- ### <span style="font-family:Andale Mono;">Single: It Doesn't Matter When You Go</span> -->
 ### Single: It Doesn't Matter When You Go
 {% include image-caption.html imageurl="/assets/images/posts/music/IMG_1941_Original.jpg#left" caption="" width="50%" %}
 
