@@ -31,6 +31,8 @@ We are interested in mapping stellar surfaces of exoplanets-hosting stars using 
 
 <a href="/posters/ERES-poster-print.pdf" target="_blank">View my poster for ERES 2023</a>
 
+<a href="/posters/CoolStarsPoster.pdf" target="_blank">View my poster for Cool Stars 2024</a>
+
 <!-- ### <span style="font-family:Andale Mono;">Binary black hole merger in AGN disks</span> -->
 ### Binary black hole merger in AGN disks
 {% include image-caption.html imageurl="/assets/images/posts/research/bbh.gif#right" caption="" width="400" %}
