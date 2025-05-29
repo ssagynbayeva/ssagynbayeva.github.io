@@ -4,7 +4,7 @@ title: Home
 ---
 
 {% if page.url == "/" %}
-<!-- Featured-->
+<!-- Featured Pages-->
 <script>
     $(document).ready(function() {
     setTimeout(function() { $("#preloader").fadeOut(1500); }, 100)
@@ -12,29 +12,26 @@ title: Home
   </script>
   
 <div class="featured-posts outer">
-    {% for post in site.posts %}
-        {% if post.featured == true %}
+    {% for page in site.pages %}
+        {% if page.featured == true and page.hidden == true %}
             {% include featuredbox.html %}
         {% endif %}
     {% endfor %}
 </div>
 {% endif %}
-<!-- Posts Index -->
+<!-- Hidden Pages Index -->
 <div class="outer">
     {% if page.url == "/" %}
-    <div class="post-feed-title inner">Latest Articles</div>
+    <div class="post-feed-title inner">Latest Works</div>
     {% endif %}
     <div class="post-feed inner-wide">
-        {% for post in paginator.posts %}
+        {% assign hidden_pages = site.pages | where: "hidden", true | sort: "date" | reverse %}
+        {% for page in hidden_pages %}
             {% include postbox.html %}
         {% endfor %}
     </div>
 </div>
-<!-- Pagination-->
-<!-- {% include pagination.html %}
+<!-- Remove pagination since we're showing pages, not posts -->
 {% if site.mailchimp_url %}
     {% include newsletter-box.html %}
-{% endif %} -->
-
-
-
+{% endif %}
