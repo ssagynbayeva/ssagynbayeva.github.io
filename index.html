@@ -3,35 +3,41 @@ layout: default
 title: Home
 ---
 
-{% if page.url == "/" %}
-<!-- Featured Pages-->
 <script>
     $(document).ready(function() {
     setTimeout(function() { $("#preloader").fadeOut(1500); }, 100)
   });
-  </script>
-  
-<div class="featured-posts outer">
-    {% for page in site.pages %}
-        {% if page.featured == true and page.hidden == true %}
-            {% include featuredbox.html %}
-        {% endif %}
-    {% endfor %}
-</div>
-{% endif %}
-<!-- Hidden Pages Index -->
+</script>
+
+{% assign about_page = site.pages | where: "title", "About" | first %}
+
+{% if about_page %}
 <div class="outer">
-    {% if page.url == "/" %}
-    <div class="post-feed-title inner">Latest Works</div>
-    {% endif %}
-    <div class="post-feed inner-wide">
-        {% assign hidden_pages = site.pages | where: "hidden", true | sort: "date" | reverse %}
-        {% for page in hidden_pages %}
-            {% include postbox.html %}
-        {% endfor %}
+    <div class="inner">
+        <article class="page">
+            <header class="page-header">
+                {% if about_page.featured_image %}
+                <div class="page-image">
+                    <img src="{{ about_page.featured_image | relative_url }}" alt="{{ about_page.title }}">
+                </div>
+                {% endif %}
+                <h1 class="page-title">{{ about_page.title }}</h1>
+            </header>
+            
+            <div class="page-content">
+                {{ about_page.content }}
+            </div>
+        </article>
     </div>
 </div>
-<!-- Remove pagination since we're showing pages, not posts -->
+{% else %}
+<div class="outer">
+    <div class="inner">
+        <p>About page not found. Make sure you have a page with title: "About"</p>
+    </div>
+</div>
+{% endif %}
+
 {% if site.mailchimp_url %}
     {% include newsletter-box.html %}
 {% endif %}
