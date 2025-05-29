@@ -1,6 +1,8 @@
 ---
 layout: page
 title: About
+hidden: true
+featured: true
 # featured_image: /assets/images/pages/about.jpg
 ---
 <script>
