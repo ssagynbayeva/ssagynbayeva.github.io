@@ -10,6 +10,19 @@ title: Research
 </script>
 >## <span style="font-family:Caveat;">Current Projects</span>
 
+### Starspots 
+{% include image-caption.html imageurl="/assets/images/posts/research/orbit-starspots.gif#right" caption="" width="400" %}
+
+We develop a new method for mapping the surfaces of stars by analyzing the light curves of planets that pass in front of them (transits). Planets help us understand stars, and vice-versa. When astronomers try to study exoplanet atmospheres by looking at how starlight filters through them during transits, starspots can interfere with these measurements. Having better maps of stellar surfaces helps correct for this interference.
+
+We are interested in mapping stellar surfaces of exoplanets-hosting stars using the Kepler and TESS data. This can be efficiently done (we hope) using hierarchical Bayesian modeling (with Gaussian Processes) treating the starspots (dark regions on a star's surface) on the surfaces of stars as a statistical population! The key innovation is that while it has been difficult to map starspots using just regular brightness measurements, we show that when you combine regular stellar brightness data with data from when planets cross in front of the star and temporarily block spots, you can get much better information about where spots are located on the star's surface. For this, rather than trying to determine the exact position of every spot (which is extremely difficult), our model focuses on determining the overall distribution of spots - things like how many spots there typically are, how big they are, and what latitudes they tend to appear at. We are using multiple stellar light curves to do the ensemble statistics with [<span style="font-family:American Typewriter;">StarryProcess</span>](https://starry-process.readthedocs.io/en/latest/), but the exoplanets orbiting those stars already help to set constraints, because of their transits.
+
+[`Read the paper`](https://ui.adsabs.harvard.edu/abs/2025arXiv250421852S/abstract)
+
+<a href="/posters/ERES-poster-print.pdf" target="_blank">View my poster for ERES 2023</a>
+
+<a href="/posters/CoolStarsPoster.pdf" target="_blank">View my poster for Cool Stars 2024</a>
+
 ### Circumplanetary Disks
 {% include image-caption.html imageurl="/assets/images/posts/research/midplane.png#right" caption="" width="400" %}
 
@@ -22,16 +35,6 @@ Circumplanetary disks, of which the disk around [PDS 70 c](https://science.nasa.
 <a href="/posters/Origins-poster-print.pdf" target="_blank">View my poster for Origins of the Solar Systems 2023</a>
 
 <!-- ### <span style="font-family:Andale Mono;">Stellar spots of HAT-P-11</span> -->
-### Starspots 
-{% include image-caption.html imageurl="/assets/images/posts/research/orbit-starspots.gif#right" caption="" width="400" %}
-
-We develop a new method for mapping the surfaces of stars by analyzing the light curves of planets that pass in front of them (transits). Planets help us understand stars, and vice-versa. When astronomers try to study exoplanet atmospheres by looking at how starlight filters through them during transits, starspots can interfere with these measurements. Having better maps of stellar surfaces helps correct for this interference.
-
-We are interested in mapping stellar surfaces of exoplanets-hosting stars using the Kepler and TESS data. This can be efficiently done (we hope) using hierarchical Bayesian modeling (with Gaussian Processes) treating the starspots (dark regions on a star's surface) on the surfaces of stars as a statistical population! The key innovation is that while it has been difficult to map starspots using just regular brightness measurements, we show that when you combine regular stellar brightness data with data from when planets cross in front of the star and temporarily block spots, you can get much better information about where spots are located on the star's surface. For this, rather than trying to determine the exact position of every spot (which is extremely difficult), our model focuses on determining the overall distribution of spots - things like how many spots there typically are, how big they are, and what latitudes they tend to appear at. We are using multiple stellar light curves to do the ensemble statistics with [<span style="font-family:American Typewriter;">StarryProcess</span>](https://starry-process.readthedocs.io/en/latest/), but the exoplanets orbiting those stars already help to set constraints, because of their transits.
-
-<a href="/posters/ERES-poster-print.pdf" target="_blank">View my poster for ERES 2023</a>
-
-<a href="/posters/CoolStarsPoster.pdf" target="_blank">View my poster for Cool Stars 2024</a>
 
 <!-- ### <span style="font-family:Andale Mono;">Binary black hole merger in AGN disks</span> -->
 ### Binary black hole merger in AGN disks
