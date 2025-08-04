@@ -8,7 +8,7 @@ title: Research
   setTimeout(function() { $("#preloader").fadeOut(1500); }, 100)
 });
 </script>
->## <span style="font-family:Caveat;">Current Projects</span>
+<!-- >## <span style="font-family:Caveat;">Current Projects</span> -->
 
 ### Starspots 
 {% include image-caption.html imageurl="/assets/images/posts/research/orbit-starspots.gif#right" caption="" width="400" %}
@@ -22,6 +22,13 @@ We are interested in mapping stellar surfaces of exoplanets-hosting stars using 
 <a href="/posters/ERES-poster-print.pdf" target="_blank">View my poster for ERES 2023</a>
 
 <a href="/posters/CoolStarsPoster.pdf" target="_blank">View my poster for Cool Stars 2024</a>
+
+### HWO observations of habitable-zone planets and cold Jupiters
+{% include image-caption.html imageurl="/assets/images/posts/research/coronagraph.pdf#right" caption="" width="400" %}
+
+We studied how NASA's upcoming Habitable Worlds Observatory (HWO) telescope should be designed to find potentially habitable planets like Earth around nearby stars. The main challenge is that these planets are incredibly faint compared to their bright host stars - like trying to spot a firefly next to a spotlight from thousands of miles away. HWO needs a special light-blocking device called a coronagraph with very specific capabilities, and it should take about 40 preliminary measurements from ground-based telescopes before HWO even starts observing. Our analysis shows that HWO will need 6-8 separate observations spread across several years to confirm whether a planet is truly in the "habitable zone" where liquid water could exist.
+
+The bigger picture is that we're not just looking for Earth-like planets - we're also studying the giant planets farther out in these planetary systems, similar to our Jupiter. Understanding both types of planets together is crucial because giant planets can either help or harm the chances of life on smaller, rocky worlds. The presence or absence of these "cold giants" affects how much water gets delivered to inner planets and whether their orbits remain stable enough for life to develop. 
 
 ### Circumplanetary Disks
 {% include image-caption.html imageurl="/assets/images/posts/research/midplane.png#right" caption="" width="400" %}
