@@ -23,12 +23,14 @@ We are interested in mapping stellar surfaces of exoplanets-hosting stars using 
 
 <a href="/posters/CoolStarsPoster.pdf" target="_blank">View my poster for Cool Stars 2024</a>
 
-### HWO observations of habitable-zone planets and cold Jupiters
-{% include image-caption.html imageurl="/assets/images/posts/research/coronagraph.pdf#right" caption="" width="400" %}
+### Habitable Worlds Observatory
+{% include image-caption.html imageurl="/assets/images/posts/research/coronagraph.png#right" caption="" width="400" %}
 
 We studied how NASA's upcoming Habitable Worlds Observatory (HWO) telescope should be designed to find potentially habitable planets like Earth around nearby stars. The main challenge is that these planets are incredibly faint compared to their bright host stars - like trying to spot a firefly next to a spotlight from thousands of miles away. HWO needs a special light-blocking device called a coronagraph with very specific capabilities, and it should take about 40 preliminary measurements from ground-based telescopes before HWO even starts observing. Our analysis shows that HWO will need 6-8 separate observations spread across several years to confirm whether a planet is truly in the "habitable zone" where liquid water could exist.
 
-The bigger picture is that we're not just looking for Earth-like planets - we're also studying the giant planets farther out in these planetary systems, similar to our Jupiter. Understanding both types of planets together is crucial because giant planets can either help or harm the chances of life on smaller, rocky worlds. The presence or absence of these "cold giants" affects how much water gets delivered to inner planets and whether their orbits remain stable enough for life to develop. 
+The bigger picture is that we're not just looking for Earth-like planets - we're also studying the giant planets farther out in these planetary systems, similar to our Jupiter. Understanding both types of planets together is crucial because giant planets can either help or harm the chances of life on smaller, rocky worlds. The presence or absence of these "cold giants" affects how much water gets delivered to inner planets and whether their orbits remain stable enough for life to develop. For that, we ran detailed orbital fitting experiments using [<span style="font-family:American Typewriter;">octofitter</span>](https://sefffal.github.io/Octofitter.jl/dev/) to figure out how many observations HWO would actually need. We simulated three different approaches: using only radial velocity measurements from ground telescopes, using only HWO's direct imaging, and combining both techniques. Our key finding was that combining 40 ground-based radial velocity measurements (taken before HWO launches) with 6-8 space-based astrometric observations gives dramatically better results than either method alone. For the habitable zone planets specifically, we simulated the entire process of discovery and confirmation, showing that while you might suspect a planet is habitable after 4-5 observations, you need 8+ observations to be 95% confident it's truly in the right zone for liquid water.
+
+[`Read the paper`](https://ui.adsabs.harvard.edu/abs/2025arXiv250721443S/abstract)
 
 ### Circumplanetary Disks
 {% include image-caption.html imageurl="/assets/images/posts/research/midplane.png#right" caption="" width="400" %}
