@@ -46,6 +46,9 @@ Circumplanetary disks, of which the disk around [PDS 70 c](https://science.nasa.
 <!-- ### <span style="font-family:Andale Mono;">Stellar spots of HAT-P-11</span> -->
 
 <!-- ### <span style="font-family:Andale Mono;">Binary black hole merger in AGN disks</span> -->
+
+>## <span style="font-family:Caveat;">Past Projects</span>
+
 ### Binary black hole merger in AGN disks
 {% include image-caption.html imageurl="/assets/images/posts/research/bbh.gif#right" caption="" width="400" %}
 
@@ -63,12 +66,12 @@ This work is conducted under the supervision of [Professor Phil Armitage](http:/
 <!-- >## <span style="font-family:Caveat;">Past Projects</span> -->
 
 <!-- ### <span style="font-family:Andale Mono;">Black Hole Mimickers</span> -->
-<!-- ### Black Hole Mimickers
+### Black Hole Mimickers
 {% include image-caption.html imageurl="/assets/images/posts/research/bhmims.jpg#right" caption="" width="100" %}
 
 We investigated the properties of particle collisions in the vicinity of compact objects that deviate from the usual black hole solutions of general relativity. We assumed static axisymmetric spacetimes where the spherical symmetry is broken by the presence of some quadrupole. As test metrics, we used two well-known Weyl solutions, the Erez-Rosen and the Zipoy-Voorhees solution. We calculated the center of mass energy for particle collisions that take place at the ISCO and find it to depend on the deformation parameters. We also investigated the "near-horizon" collisions and find that the behavior deviates from that of Schwarzschild, particularly in the case of prolate deformations. This work was done under the supervision of [Professor Daniele Malafarina](https://ssh.nu.edu.kz/faculty/daniele-malafarina-phd/) at Nazarbayev University.
 
-[`Read the paper`](https://arxiv.org/pdf/2009.12839.pdf) -->
+[`Read the paper`](https://ui.adsabs.harvard.edu/abs/2021GReGr..53..112M/abstract) -->
 
 <!-- ### <span style="font-family:Andale Mono;">Star Formation</span> -->
 <!-- ### Star Formation
