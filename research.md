@@ -17,11 +17,21 @@ We develop a new method for mapping the surfaces of stars by analyzing the light
 
 We are interested in mapping stellar surfaces of exoplanets-hosting stars using the Kepler and TESS data. This can be efficiently done (we hope) using hierarchical Bayesian modeling (with Gaussian Processes) treating the starspots (dark regions on a star's surface) on the surfaces of stars as a statistical population! The key innovation is that while it has been difficult to map starspots using just regular brightness measurements, we show that when you combine regular stellar brightness data with data from when planets cross in front of the star and temporarily block spots, you can get much better information about where spots are located on the star's surface. For this, rather than trying to determine the exact position of every spot (which is extremely difficult), our model focuses on determining the overall distribution of spots - things like how many spots there typically are, how big they are, and what latitudes they tend to appear at. We are using multiple stellar light curves to do the ensemble statistics with [<span style="font-family:American Typewriter;">StarryProcess</span>](https://starry-process.readthedocs.io/en/latest/), but the exoplanets orbiting those stars already help to set constraints, because of their transits.
 
-[`Read the paper`](https://ui.adsabs.harvard.edu/abs/2025arXiv250421852S/abstract)
+[`Read paper 1`](https://ui.adsabs.harvard.edu/abs/2025ApJ...990...32S/abstract)
+[`Read paper 2`](https://ui.adsabs.harvard.edu/abs/2025arXiv251007130S/abstract)
 
 <a href="/posters/ERES-poster-print.pdf" target="_blank">View my poster for ERES 2023</a>
 
 <a href="/posters/CoolStarsPoster.pdf" target="_blank">View my poster for Cool Stars 2024</a>
+
+### Rotation periods of stars
+{% include image-caption.html imageurl="/assets/images/posts/research/gyrofit.png#right" caption="" width="400" %}
+
+Here, we present the most complete catalog yet of how fast stars spin in the 2.5-billion-year-old star cluster NGC 6819, using data from NASA’s Kepler space telescope. We analyzed light variations from more than 9,000 stars in the cluster region and after filtering out poor-quality or contaminated signals we measured reliable rotation periods for 271 stars, nearly ten times more than previously known. We had to detrend these challenging light curves since the stars are in a crowded field (see the details in the paper). For periods, we used statistical tools called Gaussian Processes to extract the subtle periodic brightness changes caused by starspots rotating across each star’s surface. The result is a precise new map of how stellar spin depends on temperature and mass, providing one of the strongest tests yet of how stars slow down over time. Finally, for gyrochronology, we used a Mixture Model accounting for uncertainties in period and in temperature.
+
+We show that while stars generally rotate more slowly as they age and cool, the picture is more complicated than classic "gyrochronology" models predict. Even at a single temperature, the stars show a wide range of spin rates, including both very fast and very slow rotators. We results challenge the idea that rotation can serve as a simple clock for older stars, and instead point to more complex physics involving magnetic fields and internal angular-momentum transport. The new catalog will serve as a key benchmark for refining stellar-age models and for upcoming missions like PLATO. 
+
+[`Read paper`](https://ui.adsabs.harvard.edu/abs/2025arXiv251002255S/abstract)
 
 ### Habitable Worlds Observatory
 {% include image-caption.html imageurl="/assets/images/posts/research/coronagraph.png#right" caption="" width="400" %}
@@ -30,7 +40,7 @@ In Demographics & Architectures sub-working group, which I am a member of, we st
 
 The bigger picture is that we're not just looking for Earth-like planets - we're also studying the giant planets farther out in these planetary systems, similar to Jupiter. Understanding both types of planets together is crucial because giant planets can either help or harm the chances of life on smaller, rocky worlds. The presence or absence of these "cold giants" affects how much water gets delivered to inner planets and whether their orbits remain stable enough for life to develop. For that, we ran detailed orbital fitting experiments using [<span style="font-family:American Typewriter;">octofitter</span>](https://sefffal.github.io/Octofitter.jl/dev/) to figure out how many observations HWO would actually need. We simulated three different approaches: using only radial velocity measurements from ground telescopes, using only HWO's direct imaging, and combining both techniques. Our key finding was that combining 40 ground-based radial velocity measurements (taken before HWO launches) with 6-8 space-based astrometric observations gives dramatically better results than either method alone. For the habitable zone planets specifically, we simulated the entire process of discovery and confirmation, showing that while you might suspect a planet is habitable after 4-5 observations, you need 8+ observations to be 95% confident it's truly in the right zone for liquid water.
 
-[`Read the paper`](https://ui.adsabs.harvard.edu/abs/2025arXiv250721443S/abstract)
+[`Read the paper`](https://ui.adsabs.harvard.edu/abs/2025AJ....170..208S/abstract)
 
 ### Circumplanetary Disks
 {% include image-caption.html imageurl="/assets/images/posts/research/midplane.png#right" caption="" width="400" %}
@@ -39,7 +49,7 @@ I study how disks of gas and dust form around giant planets while they're still 
 
 Circumplanetary disks, of which the disk around [PDS 70 c](https://science.nasa.gov/exoplanet-catalog/pds-70-c/) is the first directly observed example, play a crucial role in the accretion of material onto planets, as well as in the formation of their satellite systems. By studying the properties of circumplanetary disks, we can gain insights into the role they play in shaping the Solar System and other planetary systems. We set up simulations like a virtual laboratory where we could control key variables: the mass of the planet and the thickness of the gas disk around the star (essentially how puffy the disk is relative to its width). In our work, we developed high-resolution 3D hydrodynamical simulations with Athena++ to study angular momentum transport onto CPDs and the morphology of the gas inflow. 
 
-[`Read the paper`](https://ui.adsabs.harvard.edu/abs/2024arXiv241014896S/abstract)
+[`Read the paper`](https://ui.adsabs.harvard.edu/abs/2025ApJ...987..216S/abstract)
 
 <a href="/posters/Origins-poster-print.pdf" target="_blank">View my poster for Origins of the Solar Systems 2023</a>
 
@@ -49,10 +59,12 @@ Circumplanetary disks, of which the disk around [PDS 70 c](https://science.nasa.
 
 >## <span style="font-family:Caveat;">Past Projects</span>
 
-### Binary black hole merger in AGN disks
+### Binary black hole merger in AGN disks*
 {% include image-caption.html imageurl="/assets/images/posts/research/bbh.gif#right" caption="" width="400" %}
 
 It is widely accepted that active galactic nuclei (AGN) are powered by the release of gravitational energy as mass falls onto a supermassive black hole (SMBH) in the center of AGN via accretion. There are also other, not so massive, black holes (BHs) dynamically moving inside the AGN disks. These dynamical interactions between black holes and the disks they are embedded into might lead some of the black holes to form binaries and merge. I am working on analyzing the evolution of orbital parameters of black hole binaries in AGN disks using 3D hydrodynamical simulations. 
+
+*Currently, this project is up for grabs, and I am happy to provide the problem generator that I wrote for this project on Athena++ if you're interested in carrying it out. Please reach out. 
 
 <a href="https://lavinia.as.arizona.edu/~rixin/forCL/BBHdisk_SabinaSetup_animation.html" target="_blank">Play with the BBH animation here.</a>
 
