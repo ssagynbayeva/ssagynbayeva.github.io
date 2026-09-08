@@ -26,6 +26,11 @@ title: Acting
   border-radius: 4px;
   display: block;
 }
+.headshot-download {
+  margin-top: 0.5rem;
+  text-align: center;
+  font-size: 0.9rem;
+}
 .acting-resume {
   flex: 2 1 380px;
   min-width: 300px;
@@ -54,6 +59,7 @@ title: Acting
 
   <div class="acting-headshot">
     <img src="/assets/images/acting/headshot.jpg" alt="Headshot of Sabina Sagynbayeva">
+    <p class="headshot-download"><a href="/assets/images/acting/headshot.jpg" download="Sabina_Sagynbayeva_headshot.jpg">Download headshot</a></p>
   </div>
 
   <div class="acting-resume">
