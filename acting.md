@@ -66,33 +66,47 @@ title: Acting
 
     <p><a href="/assets/acting/resume.pdf" target="_blank">View or download my acting resume (PDF)</a></p>
 
-    <h3>Contact</h3>
+    <p>
+      New York, NY<br>
+      sabina.sagynbayeva@gmail.com &middot; 631-428-5344
+    </p>
+
     <table>
-      <tr><td>Height</td><td>—</td></tr>
-      <tr><td>Hair</td><td>—</td></tr>
-      <tr><td>Eyes</td><td>—</td></tr>
-      <tr><td>Voice</td><td>—</td></tr>
+      <tr><td>Hair</td><td>Black</td></tr>
+      <tr><td>Eyes</td><td>Brown</td></tr>
+      <tr><td>Height</td><td>5&rsquo;6&rdquo;</td></tr>
+      <tr><td>Vocal Range</td><td>F#3&ndash;Ab5</td></tr>
     </table>
 
-    <h3>Theater</h3>
+    <h3>Theatre</h3>
     <table>
-      <tr><td><em>Show Title</em></td><td>Role</td><td>Theater / Company</td></tr>
+      <tr><td><em>Nikola</em></td><td>Ensemble</td><td>Studio 42</td><td>Marshall Pailet</td></tr>
     </table>
 
-    <h3>Film / TV</h3>
+    <h3>Film</h3>
     <table>
-      <tr><td><em>Project Title</em></td><td>Role</td><td>Director / Studio</td></tr>
+      <tr><td><em>Blue Light</em></td><td>Supporting</td><td>Darcy Cagen</td></tr>
     </table>
 
     <h3>Training</h3>
     <table>
-      <tr><td>Acting</td><td>Program / Teacher</td></tr>
-      <tr><td>Voice</td><td>Program / Teacher</td></tr>
-      <tr><td>Dance</td><td>Program / Teacher</td></tr>
+      <tr><td>B.Sc. Physics</td><td>Nazarbayev University</td></tr>
+      <tr><td>B.A. Literature</td><td>Nazarbayev University</td></tr>
+      <tr><td>M.A. Physics</td><td>Stony Brook University</td></tr>
+      <tr><td>Ph.D. Physics</td><td>Stony Brook University</td></tr>
+      <tr><td>Voice</td><td>Joy Hermalyn, Allie Trimm, Ross Baum</td></tr>
+      <tr><td>Acting</td><td>David Garelik, Chris Martin</td></tr>
     </table>
 
     <h3>Special Skills</h3>
-    <p>Singing (songwriter), guitar, ...</p>
+    <p>
+      <strong>Musical instruments:</strong> piano, guitar, drums<br>
+      <strong>Dancing:</strong> House, Waacking, Jazz Funk<br>
+      <strong>Songwriting:</strong> 10 self-written songs on all music platforms<br>
+      <strong>Languages:</strong> Russian (native), English (advanced), Spanish (conversational)<br>
+      <strong>Sports:</strong> cycling, tennis, swimming<br>
+      Local Hire in Montreal
+    </p>
 
   </div>
 
