@@ -51,6 +51,8 @@ navigation:
     url: /outreach
   - text: Music
     url: /music
+  - text: Acting
+    url: /acting
   - text: Contact Me
     url: /contact
   - text: CV
