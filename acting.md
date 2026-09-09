@@ -67,7 +67,7 @@ title: Acting
     <p><a href="/assets/acting/resume.pdf" target="_blank">View or download my acting resume (PDF)</a></p>
 
     <p>
-      New York, NY<br>
+      <!-- New York, NY<br> -->
       sabina.sagynbayeva@gmail.com &middot; 631-428-5344
     </p>
 
