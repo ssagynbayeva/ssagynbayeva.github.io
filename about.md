@@ -49,7 +49,7 @@ Hi! I am an Astrophysicist with a PhD from Stony Brook University, originally fr
 
 I am passionate about supporting minorities in science and improving DEI, and science communication. As a woman in STEM, I am always happy to help other fellow women in STEM. [Contact me](https://ssagynbayeva.github.io/contact) if you have interesting DEI initiatives ideas!
 
-When I don't think about my research, I am a singer-songwriter and a musical theater nerd. In 2020, I started releasing my songs that I wrote and fully/partially produced. You can find them [here](https://ssagynbayeva.github.io/music).
+When I don't think about my research, I am a singer-songwriter and a musical theater nerd. In 2020, I started releasing my songs that I wrote and fully/partially produced. You can find them [here](https://ssagynbayeva.github.io/music). I also act! I am pursuing acting professionally, please [contact me](https://ssagynbayeva.github.io/contact) if you want to do theatre/film together. Please check out my [acting page](https://ssagynbayeva.github.io/acting). 
 
   </div>
 
