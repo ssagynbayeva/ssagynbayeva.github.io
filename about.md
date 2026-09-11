@@ -40,7 +40,7 @@ featured: true
 <div class="about-wrap">
 
   <div class="about-photo">
-    <img src="/assets/images/posts/about/headshot2.jpg" alt="Alt text: The picture of Sabina smiling.">
+    <img src="/assets/images/posts/about/headshot2.JPG" alt="Alt text: The picture of Sabina smiling.">
   </div>
 
   <div class="about-text" markdown="1">
