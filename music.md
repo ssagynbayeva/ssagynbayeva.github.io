@@ -10,8 +10,21 @@ title: Music
 </script>
 
 <!-- ### <span style="font-family:Andale Mono;">Single: It Doesn't Matter When You Go</span> -->
+### Single: Shame
+{% include image-caption.html imageurl="/assets/images/posts/music/shame.jpg#left" caption="" width="50%" %}
+
+[`Listen to the song on all streaming platforms`](https://distrokid.com/hyperfollow/sabina/shame)
+
+Music/Lyrics: Sabina Sagynbayeva
+
+Producer: Dmitriy Semenov
+
+Recording studio: Shaman Recording Studio (Astana, Kazakhstan)
+
+Cover photo: Sabina Sagynbayeva
+
 ### Single: for good
-{% include image-caption.html imageurl="/assets/images/posts/music/forgood.jpg#left" caption="" width="50%" %}
+{% include image-caption.html imageurl="/assets/images/posts/music/forgood.png#left" caption="" width="50%" %}
 
 [`Listen to the song on all streaming platforms`](https://distrokid.com/hyperfollow/sabina/for-good)
 
