@@ -9,6 +9,12 @@ title: Music
 });
 </script>
 
+<iframe style="border-radius:12px"
+  src="https://open.spotify.com/embed/artist/3zQG0u5MLQsIUQ21LbsBHz?utm_source=generator"
+  width="100%" height="352" frameborder="0" allowfullscreen=""
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+  loading="lazy"></iframe>
+  
 <!-- ### <span style="font-family:Andale Mono;">Single: It Doesn't Matter When You Go</span> -->
 ### Single: Shame
 {% include image-caption.html imageurl="/assets/images/posts/music/shame.jpg#left" caption="" width="50%" %}
