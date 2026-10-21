@@ -68,7 +68,7 @@ title: Acting
 
     <p>
       <!-- New York, NY<br> -->
-      sabina.sagynbayeva@gmail.com &middot; 631-428-5344
+      sabina.sagynbayeva@gmail.com &middot;
     </p>
 
     <table>
@@ -90,11 +90,11 @@ title: Acting
 
     <h3>Training</h3>
     <table>
-      <tr><td>B.Sc. Physics</td><td>Nazarbayev University</td></tr>
+      <!-- <tr><td>B.Sc. Physics</td><td>Nazarbayev University</td></tr>
       <tr><td>B.A. Literature</td><td>Nazarbayev University</td></tr>
       <tr><td>M.A. Physics</td><td>Stony Brook University</td></tr>
-      <tr><td>Ph.D. Physics</td><td>Stony Brook University</td></tr>
-      <tr><td>Voice</td><td>Joy Hermalyn, Allie Trimm, Ross Baum</td></tr>
+      <tr><td>Ph.D. Physics</td><td>Stony Brook University</td></tr> -->
+      <tr><td>Voice</td><td>Allie Trimm, Ross Baum, Stephanie Sedlbauer</td></tr>
       <tr><td>Acting</td><td>David Garelik, Chris Martin</td></tr>
     </table>
 
@@ -105,7 +105,7 @@ title: Acting
       <strong>Songwriting:</strong> 10 self-written songs on all music platforms<br>
       <strong>Languages:</strong> Russian (native), English (advanced), Spanish (conversational)<br>
       <strong>Sports:</strong> cycling, tennis, swimming<br>
-      Local Hire in Montreal
+      Local Hire in Montréal, Toronto, and NYC
     </p>
 
   </div>
